@@ -1,0 +1,4 @@
+{
+    "names": {"Jacob": 15, "Yaakov": 12, "Yaacov": 10, "Tomer": 13, "Tommer": 4, "Sara": 17},
+    "synonyms": {"Jacob": "Yaakov", "Yaacov": "Yaakov", "Tomer": "Tommer"}
+}
